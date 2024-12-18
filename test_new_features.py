@@ -5,3 +5,9 @@ def test_create_user(client):
     })
     assert response.status_code == 201
     assert response.json()["email"] == "newuser@example.com"
+#"""
+##This file contains tests for newly added features such as:
+#- User role updates
+#- Email verification
+#- Improved error handling
+#"""
