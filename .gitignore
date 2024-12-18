@@ -6,3 +6,8 @@ qr_codes
 .vscode
 .env
 .coverage
+__pycache__/
+*.log
+.DS_Store
+*.db
+.env
