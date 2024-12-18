@@ -10,15 +10,14 @@ The User Management System is an open-source project developed by Professor Keit
 
 ## Student Tasks and Grading Rubric:
 As a student working on this project, your tasks are as follows. **Submit a document with links to all the issues you create for the bugs, tests, and new feature implementations**:
-
-### Quality Assurance (20%):
-- Thoroughly test the system's major functionalities and identify at least 5 issues or bugs.
-- Create GitHub issues for each identified problem, providing detailed descriptions and steps to reproduce. Resolve each of the 5 issues and merge your fixes one at a time into the main branch through pull requests.
-
 ### Test Coverage Improvement (40%):
 - Review the existing test suite and identify gaps in test coverage.
 - Create 10 additional tests to cover edge cases, error scenarios, and important functionalities.
 - Focus on areas such as user registration, login, authorization, and database interactions. Create branches and issues for each test.
+
+### Quality Assurance (20%):
+- Thoroughly test the system's major functionalities and identify at least 5 issues or bugs.
+- Create GitHub issues for each identified problem, providing detailed descriptions and steps to reproduce. Resolve each of the 5 issues and merge your fixes one at a time into the main branch through pull requests.
 
 ### New Feature Implementation (40%):
 - Choose two features from the provided list of additional improvements.
